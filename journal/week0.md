@@ -1,6 +1,9 @@
 # Week 0 — Billing and Architecture
+## USING CLOUD SHELL
+## GENERATING AWS CREDENTIALS
+## INSTALL AWS CLI
 ## CREATE IAM USER
-
+## CREATE BUDGET
 
 
 

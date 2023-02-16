@@ -13,6 +13,9 @@ This is the week o of the AWS Cloud project bootcamp and this week I will undert
 ## GENERATING AWS CREDENTIALS
 ## INSTALL AWS CLI
 ## CREATE IAM USER
+It is best pratice to create IAM user(s) to gain access to permitted AWS services. For this project I have created an IAM user and thie processes are as follows:
+### 
+![
 ## CREATE BUDGET
 
 

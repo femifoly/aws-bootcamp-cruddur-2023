@@ -12,6 +12,9 @@ This is the week o of the AWS Cloud project bootcamp and this week I will undert
 ## USING CLOUD SHELL
 ## GENERATING AWS CREDENTIALS
 ## INSTALL AWS CLI
+
+
+
 ## CREATE IAM USER
 It is best pratice to create IAM user(s) to gain access to permitted AWS services. For this project I have created an IAM user and thie processes are as follows:
 * ##### Log in to the root user account to create the IAM user
@@ -26,6 +29,7 @@ It is best pratice to create IAM user(s) to gain access to permitted AWS service
 ![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/user3.png)
 * #### As you can see, we have succesfully created an IAM user!
 ![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/userfinal.png)
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/userlog.png)
 ## CREATE BUDGET
 AWS Budgets allows us to set custom cost and usage budgets that will alert us when budget thresholds are exceeded (or forecasted to exceed). We can also create budgets to track your aggregate Reservation and Savings Plans utilization and coverage metrics. for this project, I will create a budget that will help me to monitor my account spendings as the project develops. The processes to create budgets are as follows:
 * #### Type Budget in the AWS Console search bar and select AWS Budgets from the drop down menu

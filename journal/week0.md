@@ -1,5 +1,14 @@
 # Week 0 — Billing and Architecture
 ## INTRODUCTION
+This is the week o of the AWS Cloud project bootcamp and this week I will undertake some tasks which are detailed below. I adopted the AWS Well Achitected Framework Pillars which helps to increase awareness of architectural best practices, address foundational areas that are often neglected and evaluate architectures using a consistent set of principles. The 6 pillars are:
+* Operational Excellence
+* Security
+* Reliability
+* Performance Efficiency
+* Cost Optimization
+* Sustainability
+
+
 ## USING CLOUD SHELL
 ## GENERATING AWS CREDENTIALS
 ## INSTALL AWS CLI

@@ -28,12 +28,21 @@ It is best pratice to create IAM user(s) to gain access to permitted AWS service
 ![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/userfinal.png)
 ## CREATE BUDGET
 AWS Budgets allows us to set custom cost and usage budgets that will alert us when budget thresholds are exceeded (or forecasted to exceed). We can also create budgets to track your aggregate Reservation and Savings Plans utilization and coverage metrics. for this project, I will create a budget that will help me to monitor my account spendings as the project develops. The processes to create budgets are as follows:
-* #### Type Budget in the AWS Console search bar and select AWS Budget from the drop down menu
+* #### Type Budget in the AWS Console search bar and select AWS Budgets from the drop down menu
 ![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/Budgetsearch.png)
 
-* ####
-* ####
-* ####
+* #### Click on create budgets and select the Customized (Advanced) setting to enable you set up your budget
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/createbudget1.png)
+
+* #### Configure your budget alert and click next to create budget
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/creatbudget2.png)
+
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/alert1.png)
+
+* #### Budget and budget alert has been successfully created!
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/cashbudget.png)
+* #### We can also follow the same process to setup budget for our AWS credits
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/budgetfinal.png)
 
 ![Cruddur Conceptual Diagram](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/Screenshot%20from%202023-02-14%2000-46-31.png)
 **[Cruddur Conceptual Diagram](https://lucid.app/lucidchart/a82b5334-0949-4071-addf-800a00476dd5/edit?viewport_loc=-64%2C148%2C2125%2C1123%2C0_0&invitationId=inv_dc1c60e9-8dc0-4fa8-b85b-58ec142a21f7)**

@@ -14,8 +14,18 @@ This is the week o of the AWS Cloud project bootcamp and this week I will undert
 ## INSTALL AWS CLI
 ## CREATE IAM USER
 It is best pratice to create IAM user(s) to gain access to permitted AWS services. For this project I have created an IAM user and thie processes are as follows:
-### 
-![
+* ##### Log in to the root user account to create the IAM user
+![Root Login](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/Login%20to%20root.png)
+* #### Click on add user to add a user account
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/user.png)
+* #### Specifiy user details by typing in your user name and password then click Next
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/user1.png)
+* #### Set user permission policies to determine what role and services that can be accessed
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/user2.png)
+* #### Retrieve user sign-in details and save securely and click return to user list
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/user3.png)
+* #### As you can see, we have succefully created an IAM user!
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/userfinal.png)
 ## CREATE BUDGET
 
 

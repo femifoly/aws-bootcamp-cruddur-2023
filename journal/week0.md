@@ -18,7 +18,7 @@ I was able to generate my AWS credentials but could not publish to Gitpod due to
 ![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/gitpod.png)
 
 ## INSTALL AWS CLI
-![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/Screenshot%20from%202023-02-16%2018-22-27.png)
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/Screenshot%20from%202023-02-17%2010-41-56.png)
 
 
 

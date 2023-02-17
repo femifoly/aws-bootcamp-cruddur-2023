@@ -10,8 +10,15 @@ This is the week o of the AWS Cloud project bootcamp and this week I will undert
 
 
 ## USING CLOUD SHELL
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/cloudshell.png)
+
 ## GENERATING AWS CREDENTIALS
+I was able to generate my AWS credentials but could not publish to Gitpod due to permission error. I have just installed my ubuntu server and will need to configure the remote ssh properly.
+
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/gitpod.png)
+
 ## INSTALL AWS CLI
+![](https://github.com/femifoly/aws-bootcamp-cruddur-2023/blob/main/HomeWork%20Files/Screenshot%20from%202023-02-16%2018-22-27.png)
 
 
 

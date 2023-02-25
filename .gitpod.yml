@@ -15,4 +15,5 @@ tasks:
       sudo apt install -y postgresql-client libpq-dev
 vscode:
   extensions:
-    - amazonwebservices.aws-toolkit-vscode
+    - 42Crunch.vscode-openapi
+    - cweijan.vscode-postgresql-client2

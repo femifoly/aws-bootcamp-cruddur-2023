@@ -1,10 +1,18 @@
 from datetime import datetime, timedelta, timezone
+from opentelemetry import trace
+import logging
+
+tracer = trace.get_tracer("home.activities")
+
 class HomeActivities:
-  def run():
-    now = datetime.now(timezone.utc).astimezone()
-    results = [{
+  def run(Logger):
+    Logger.info("HomeActivities")
+    with tracer.start_as_current_span("home_activities_mock-data"):
+     span = trace.get_current_span()
+     now = datetime.now(timezone.utc).astimezone()
+     results = [{
       'uuid': '68f126b0-1ceb-4a33-88be-d90fa7109eee',
-      'handle':  'Andrew Brown',
+      'handle':  'Femi Folorunso',
       'message': 'Cloud is very fun!',
       'created_at': (now - timedelta(days=2)).isoformat(),
       'expires_at': (now + timedelta(days=5)).isoformat(),

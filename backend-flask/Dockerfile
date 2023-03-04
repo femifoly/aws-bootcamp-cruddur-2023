@@ -1,4 +1,4 @@
-FROM python:3.12.0a5-slim
+FROM python:3.10-slim-buster
 
 # Inside Container
 # Make a new folder inside container

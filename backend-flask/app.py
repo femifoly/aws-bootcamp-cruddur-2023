@@ -73,7 +73,7 @@ cors = CORS(
   app, 
   resources={r"/api/*": {"origins": origins}},
   expose_headers="location,link",
-  allow_headers="content-type,if-modified-since",
+  allow_headers=["content-type","traceparent"],
   methods="OPTIONS,GET,HEAD,POST"
 )
 
@@ -107,7 +107,7 @@ def data_messages(handle):
 @app.route("/api/messages", methods=['POST','OPTIONS'])
 @cross_origin()
 def data_create_message():
-  user_sender_handle = 'andrewbrown'
+  user_sender_handle = 'femifoly'
   user_receiver_handle = request.json['user_receiver_handle']
   message = request.json['message']
 
